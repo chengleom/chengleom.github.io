@@ -1,0 +1,19 @@
+# Associations
+# comment out the urls if you do not wish to display them
+
+- organization: Quantitative Association of Hunan University
+  role: Team member
+  year: 2023.01 &mdash; Present
+  # url: https://www.peta.org/
+  summary: 
+    <ul>
+      <li>Reading and mining financial research paper, collected relevant research report data.</li>
+      <li>Using NLP model to mine Text factor from the collected text data</li>
+    </ul>
+
+
+- organization: Architectural Planning Institute, Hunan University
+  role: Study committee
+  year: 2020.9 &mdash; 2021.3
+  # url: http://campuspress.yale.edu/amnesty/
+  summary: Assist teachers and classmates to complete the connection of various tasks.

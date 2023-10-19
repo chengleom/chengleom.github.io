@@ -1,0 +1,27 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# jazznotes.io
+- project: AMP-Parkinson's Disease Progression Prediction
+  role: Captain
+  duration: 2023.4 &mdash; 2023.6
+  # url: "#"
+  description: Using biomedical data to develop a algorithm, which combined multiple ML model and DM method, to predict the disease progression of patients with parkinson, and our team achieved a top 8% ranking in that competition.
+
+# Springfield Community Outreach Group
+- project: Soloar Radiation Intensity Prediction-Algorithm Design
+  role: Captain
+  duration: 2022.9 &mdash; 2022.11
+  # url: "#"
+  description: Based on fewer sunlight data, develop a CNN-LSTM model with some data mining to enhance the accuracy of predicting medium-long term solalr condition. As the result, our team got a top 2% ranking in all teams.
+
+- project: Impact of Registration System Policies on Shell Premium
+  role: Team memeber
+  duration: 2022.5 &mdash; 2023.2; 
+  description: Under the guidance of Professor Guohao Tang, we using DID model to analyse impact of registration policies on the shell premium of A share.
+
+- project: Develop a Math Model to Assist Used Car Company To Profit. 
+  role: Team memeber
+  duration: 2022.1 &mdash; 2022.5
+  description: 
+    - Based on Beta, Geometric distribution and Bayes theorem, develop a pricing model to help used cars to profit. as the result, our team got national first prize in mathorcup Big Data Competition. 

@@ -2,6 +2,12 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
+- project: Development of Zangge GPT Q&A website based on LLM
+  role: Main Team memeber
+  duration: 2023.11 &mdash; 2024.1
+  # url: "#"
+  description: Based on the OPENAI language model and the vector knowledge base matching faiss package, a set of text cutting algorithms, knowledge base searches and logic chain programs for large language models that are more suitable for the knowledge base of Zangge Mining Co., Ltd. are designed, and use js, css, html Designed and developed a Q&A website for the company.
+
 - project: AMP-Parkinson's Disease Progression Prediction
   role: Captain
   duration: 2023.4 &mdash; 2023.6

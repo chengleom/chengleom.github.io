@@ -1,9 +1,15 @@
 # Degree
+- degree: Master of Science, Data Science 
+  uni: Chinese University Of HongKong(Shenzhen)
+  year: 2024 &mdash; 2026
+
+
 - degree: Bachelor of Science, Statistics
   uni: Hunan University
   year: 2020 &mdash; 2024
   awards:
-    - award: University-level second-class scholarship
+    - award: University-level first-class scholarship(2023)
+    - award: University-level second-class scholarship(2020)
     - award: score:92.5/100, GPA:3.91/4, rank:6/46
 
 # - degree: High School Diploma

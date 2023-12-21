@@ -1,5 +1,13 @@
 # Associations
 # comment out the urls if you do not wish to display them
+- organization: Professor Tang Guohao’s team, Hunan University
+  role: Team member
+  year: 2023.11 — Present
+  # url: https://www.peta.org/
+  summary: 
+    <ul>
+      <li>As the main programmer, responsible for writing front-end and back-end programs and algorithms, and assisting the team in completing projects requirements.</li>
+    </ul>
 
 - organization: Quantitative Association of Hunan University
   role: Team member
